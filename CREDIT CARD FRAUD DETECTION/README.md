@@ -8,6 +8,8 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 
 The goal of this project is to build a classification model that can accurately identify whether a transaction is fraudulent or legitimate.
 
+<img width="1536" height="1024" alt="fraud" src="https://github.com/user-attachments/assets/628cddd9-e57c-46d4-8700-4821cccb8de1" />
+
 ---
 
 ## 📊 Dataset
