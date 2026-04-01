@@ -12,9 +12,13 @@ The goal is to transform raw textual data into meaningful numerical features and
 
 The dataset was analyzed to extract meaningful insights:
 📌 Genre Distribution: Identified class imbalance across genres
+
 📌 Text Length Analysis: Observed variation in description lengths
+
 📌 Word Frequency Analysis: Extracted most common words
+
 📌 Bigram Analysis: Identified frequently occurring word pairs
+
 📌 WordCloud Visualization: Visual representation of genre-specific words
 
 👉 Insight: Certain genres have distinctive vocabulary patterns, which helps in classification.
