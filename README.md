@@ -1,6 +1,6 @@
 # Machine Learning Projects - CODSOFT Internship
 
-This repository contains 5 end-to-end Machine Learning projects completed as part of the CODSOFT Internship. Each project demonstrates the complete ML pipeline including data preprocessing, feature engineering, model building, evaluation, and insights.
+This repository contains 4 end-to-end Machine Learning projects completed as part of the CODSOFT Internship. Each project demonstrates the complete ML pipeline including data preprocessing, feature engineering, model building, evaluation, and insights.
 
 ## 🚀 Projects Included
 
