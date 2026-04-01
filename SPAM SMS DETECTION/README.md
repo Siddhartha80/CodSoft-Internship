@@ -112,5 +112,4 @@ The following models were implemented and compared:
 
 ---
 
-## 📂 Project Structure
 
