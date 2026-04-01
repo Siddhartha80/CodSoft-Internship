@@ -30,8 +30,11 @@ The dataset was analyzed to extract meaningful insights:
 
 A custom preprocessing pipeline was implemented:
   Converted text to lowercase
+  
   Removed special characters and numbers
+  
   Removed extra spaces
+  
   Cleaned both training and test datasets
 
 🔠 Feature Engineering
