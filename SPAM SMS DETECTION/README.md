@@ -24,6 +24,12 @@ To develop an accurate classification model that can automatically detect spam m
 
 ---
 
+## Architecture Diagram
+
+<img width="457" height="790" alt="SMS" src="https://github.com/user-attachments/assets/4b723328-97e8-483a-a419-2b89e43e9527" />
+
+---
+
 ## 🔍 Exploratory Data Analysis (EDA)
 
 Performed extensive EDA to understand patterns in the data:
