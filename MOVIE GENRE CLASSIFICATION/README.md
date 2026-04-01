@@ -6,11 +6,14 @@ This project focuses on building a Machine Learning model that predicts the genr
 
 The goal is to transform raw textual data into meaningful numerical features and accurately classify movies into genres like drama, comedy, thriller, etc.
 
+
 <img width="438" height="678" alt="Genre Classification" src="https://github.com/user-attachments/assets/75d7f09e-4b2d-4313-bd11-168bdd647e65" />
+
 
 📊 Exploratory Data Analysis (EDA)
 
 The dataset was analyzed to extract meaningful insights:
+
 📌 Genre Distribution: Identified class imbalance across genres
 
 📌 Text Length Analysis: Observed variation in description lengths
