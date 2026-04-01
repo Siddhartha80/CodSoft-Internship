@@ -127,26 +127,3 @@ in achieving strong performance in NLP-based classification tasks.
 
 ---
 
-## 📎 How to Run the Project
-
-```bash
-# Clone the repository
-git clone <your-repo-link>
-
-# Navigate to project folder
-cd movie-genre-classification
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the model
-python main.py
-```
-
----
-
-## 📬 Contact
-
-Feel free to connect for collaboration or queries!
-
----
