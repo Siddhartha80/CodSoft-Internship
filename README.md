@@ -8,7 +8,7 @@ This repository contains 5 end-to-end Machine Learning projects completed as par
 2. Credit Card Fraud Detection
 3. Customer Churn Prediction
 4. Spam SMS Detection (NLP)
-5. Handwritten Text Generation (Deep Learning - RNN)
+
 
 ## 🧠 Skills Demonstrated
 
