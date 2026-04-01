@@ -30,6 +30,11 @@ The dataset contains customer information such as:
 * Target Variable: **Exited (Churn)**
 
 ---
+## Architecture Diagram
+
+<img width="378" height="927" alt="Churn" src="https://github.com/user-attachments/assets/287e62ef-559c-49ee-8a23-3004de5660f5" />
+
+---
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
