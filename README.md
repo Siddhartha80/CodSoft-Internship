@@ -65,8 +65,4 @@ Datasets are not stored in this repository. Each project's `data/README.md` expl
 **Siddhartha Mettu**, M.S. Data Science student at Arizona State University.
 
 - LinkedIn: [siddhartha-mettu](https://www.linkedin.com/in/siddhartha-mettu/)
-- GitHub: [Siddhartha80](https://github.com/Siddhartha80)
 
-## License
-
-Released under the [MIT License](LICENSE).
