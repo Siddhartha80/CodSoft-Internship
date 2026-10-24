@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Datasets are not versioned - see each project's data/README.md
+*/data/*
+!*/data/README.md
+
+# Generated outputs
+submission.csv
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
